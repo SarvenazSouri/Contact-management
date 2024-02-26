@@ -1,0 +1,14 @@
+C:\Users\isi.751FJW2\Desktop\D05-C#\d05-h23-fevrier-groupe2\TP\Model\bin\Debug\Model.dll.config
+C:\Users\isi.751FJW2\Desktop\D05-C#\d05-h23-fevrier-groupe2\TP\Model\bin\Debug\Model.dll
+C:\Users\isi.751FJW2\Desktop\D05-C#\d05-h23-fevrier-groupe2\TP\Model\bin\Debug\Model.pdb
+C:\Users\isi.751FJW2\Desktop\D05-C#\d05-h23-fevrier-groupe2\TP\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\isi.751FJW2\Desktop\D05-C#\d05-h23-fevrier-groupe2\TP\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\isi.751FJW2\Desktop\D05-C#\d05-h23-fevrier-groupe2\TP\Model\obj\Debug\Model.dll
+C:\Users\isi.751FJW2\Desktop\D05-C#\d05-h23-fevrier-groupe2\TP\Model\obj\Debug\Model.pdb
+C:\cours-ISI\D05-C#\d05-h23-fevrier-groupe2\TP\Model\bin\Debug\Model.dll.config
+C:\cours-ISI\D05-C#\d05-h23-fevrier-groupe2\TP\Model\bin\Debug\Model.dll
+C:\cours-ISI\D05-C#\d05-h23-fevrier-groupe2\TP\Model\bin\Debug\Model.pdb
+C:\cours-ISI\D05-C#\d05-h23-fevrier-groupe2\TP\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\cours-ISI\D05-C#\d05-h23-fevrier-groupe2\TP\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\cours-ISI\D05-C#\d05-h23-fevrier-groupe2\TP\Model\obj\Debug\Model.dll
+C:\cours-ISI\D05-C#\d05-h23-fevrier-groupe2\TP\Model\obj\Debug\Model.pdb
